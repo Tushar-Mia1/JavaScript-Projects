@@ -1,2 +1,2 @@
 # JavaScript-Projects
-This is JavaScript-Projects Repository
+This is the JavaScript-Projects Repository
