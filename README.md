@@ -1,2 +1,2 @@
-# JavaScript-Simple-Projects
-This is JavaScript-Simple-Projects Repository
+# JavaScript-Projects
+This is JavaScript-Projects Repository
