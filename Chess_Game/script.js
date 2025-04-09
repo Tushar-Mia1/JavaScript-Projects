@@ -23,6 +23,8 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   // Function to record and display a move in the history
-  
+  const recordMove = (move, moveCount) => {
+    
+  }
 
 });
