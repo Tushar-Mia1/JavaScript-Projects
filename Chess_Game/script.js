@@ -23,8 +23,12 @@ document.addEventListener("DOMContentLoaded", () => {
   };
 
   // Function to record and display a move in the history
-  const recordMove = (move, moveCount) => {
-    
-  }
+  const recordMove = (move, count) => {
+    const formattedMove = count % 2 === 1 ? `${Math.ceil(count / 2)}. ${move}` : `${move} -`;
+    moveHistory.textContent += formattedMove + ' ';
+    moveHistory.scrollTop = moveHistory.scrollHeight; // Auto-scroll to the latest move
+  };
+
+  // Next time I write code here
 
 });
